@@ -120,5 +120,3 @@ jupyter notebook spotify/linear_regression_tutorial.ipynb
 # 或
 jupyter notebook student_performance/student_performance_prediction.ipynb
 ```
-
-1. 查看分析结果和可视化图表
